@@ -1,5 +1,4 @@
 _id,timestamp,uiVersion,user ID,userID,event,parameter,__v
-64eb25748e8d690b34dcf79d,2023-08-27T10:29:08.194Z,2,1234,1234,session_started,"""clicked#1234""",0
 64ec82b0422709a28eaef572,2023-08-28T11:19:12.109Z,1,1011,1011,session_started,"""clicked#1011""",0
 64ec8336422709a28eaef574,2023-08-28T11:21:25.992Z,1,1011,1011,request_plans_button,clicked,0
 64ec83c7422709a28eaef576,2023-08-28T11:23:51.573Z,1,1011,1011,smily_interaction#3,@education#Assoc-voc#Prof-school@occupation#Prof-specialty#Exec-managerial@workclass#Private#Federal-gov@hardship_flag#N#Y,0
@@ -26,29 +25,29 @@ _id,timestamp,uiVersion,user ID,userID,event,parameter,__v
 64ec88ec422709a28eaef5a0,2023-08-28T11:45:48.068Z,2,1011,1011,modify_plan_button,#CLICKED#education#Bachelors#Prof-school#hours_per_week#50#61#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#annual_inc#82000#273305.5888605267#hardship_flag#N#Y,0
 64ec8910422709a28eaef5a2,2023-08-28T11:46:24.250Z,2,1011,1011,modify_value_categorical,Workclass#Prefrences_acceptable_values:Self-emp-inc,0
 64ec8926422709a28eaef5a4,2023-08-28T11:46:45.894Z,2,1011,1011,modify_value_categorical,Education#Prefrences_acceptable_values:Prof-school,0
-64ec8946422709a28eaef5a6,2023-08-28T11:47:18.469Z,2,1011,1011,interface_2,resubmit_loan_plan,0
-64ec89a6422709a28eaef5a8,2023-08-28T11:48:54.060Z,2,1011,1011,smily_interaction,#education#Bachelors#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y#smily_value#3,0
-64ec89a7422709a28eaef5aa,2023-08-28T11:48:55.539Z,2,1011,1011,modify_plan_button,#CLICKED#education#Bachelors#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y,0
-64ec89ac422709a28eaef5ac,2023-08-28T11:49:00.674Z,2,1011,1011,modify_value_categorical,Workclass#Prefrences_acceptable_values:Self-emp-inc,0
-64ec89b3422709a28eaef5ae,2023-08-28T11:49:06.970Z,2,1011,1011,modify_value_categorical,Workclass#Prefrences_acceptable_values:Private,0
-64ec89c6422709a28eaef5b0,2023-08-28T11:49:26.038Z,2,1011,1011,modify_value_categorical,Job#Prefrences_acceptable_values:Other-service,0
-64ec89e8422709a28eaef5b2,2023-08-28T11:50:00.227Z,2,1011,1011,interface_2,resubmit_loan_plan,0
-64ec8a29422709a28eaef5b4,2023-08-28T11:51:04.739Z,2,1011,1011,smily_interaction,#education#Bachelors#Prof-school#hours_per_week#50#61#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y#smily_value#4,0
-64ec8a2a422709a28eaef5b6,2023-08-28T11:51:06.004Z,2,1011,1011,keep_plan_button,#CLICKED##education#Bachelors#Prof-school#hours_per_week#50#61#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y,0
-64ecad46422709a28eaef5b8,2023-08-28T14:20:53.484Z,2,1012,1012,session_started,"""clicked#1012""",0
-64ecae40422709a28eaef5ba,2023-08-28T14:25:03.248Z,2,1012,1012,request_plans_button,clicked,0
-64ecaed1422709a28eaef5bc,2023-08-28T14:27:29.328Z,2,1012,1012,smily_interaction,#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#5,0
-64ecaf1b422709a28eaef5be,2023-08-28T14:28:43.679Z,2,1012,1012,smily_interaction,#education#Assoc-voc#Prof-school#hours_per_week#40#51#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#3,0
-64ecaff8422709a28eaef5c0,2023-08-28T14:32:23.878Z,2,1012,1012,smily_interaction,#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#5,0
-64ecaff8422709a28eaef5c2,2023-08-28T14:32:24.792Z,2,1012,1012,smily_interaction,#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#5,0
-64ecb006422709a28eaef5c4,2023-08-28T14:32:37.512Z,2,1012,1012,smily_interaction,#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#1,0
-64ecb00f422709a28eaef5c6,2023-08-28T14:32:46.866Z,2,1012,1012,smily_interaction,#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#2,0
-64ecb048422709a28eaef5c8,2023-08-28T14:33:44.648Z,2,1012,1012,modify_plan_button,#CLICKED#education#Assoc-voc#Prof-school#hours_per_week#40#51#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y,0
-64ecb059422709a28eaef5ca,2023-08-28T14:34:00.983Z,2,1012,1012,modify_value_numerical,Hours per week#original_value:40#Prefrences_value:48,0
-64ecb059422709a28eaef5cc,2023-08-28T14:34:00.735Z,2,1012,1012,modify_value_numerical,Hours per week#original_value:40#Prefrences_value:43,0
-64ecb059422709a28eaef5d2,2023-08-28T14:34:00.802Z,2,1012,1012,modify_value_numerical,Hours per week#original_value:40#Prefrences_value:45,0
-64ecb059422709a28eaef5d4,2023-08-28T14:34:01.023Z,2,1012,1012,modify_value_numerical,Hours per week#original_value:40#Prefrences_value:49,0
-64ecb059422709a28eaef5d6,2023-08-28T14:34:01.052Z,2,1012,1012,modify_value_numerical,Hours per week#original_value:40#Prefrences_value:50,0
+64ec8946422709a28eaef5a6,2023-08-28T11:47:18.469Z,2,1011,1011,resubmit_loan_plan,interface_2,0
+64ec89a6422709a28eaef5a8,2023-08-28T11:48:54.060Z,2,1011,1011,resubmit_loan_plan,#education#Bachelors#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y#smily_value#3,0
+64ec89a7422709a28eaef5aa,2023-08-28T11:48:55.539Z,2,1011,1011,resubmit_loan_plan,#CLICKED#education#Bachelors#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y,0
+64ec89ac422709a28eaef5ac,2023-08-28T11:49:00.674Z,2,1011,1011,resubmit_loan_plan,Workclass#Prefrences_acceptable_values:Self-emp-inc,0
+64ec89b3422709a28eaef5ae,2023-08-28T11:49:06.970Z,2,1011,1011,resubmit_loan_plan,Workclass#Prefrences_acceptable_values:Private,0
+64ec89c6422709a28eaef5b0,2023-08-28T11:49:26.038Z,2,1011,1011,resubmit_loan_plan,Job#Prefrences_acceptable_values:Other-service,0
+64ec89e8422709a28eaef5b2,2023-08-28T11:50:00.227Z,2,1011,1011,resubmit_loan_plan,interface_2,0
+64ec8a29422709a28eaef5b4,2023-08-28T11:51:04.739Z,2,1011,1011,resubmit_loan_plan,#education#Bachelors#Prof-school#hours_per_week#50#61#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y#smily_value#4,0
+64ec8a2a422709a28eaef5b6,2023-08-28T11:51:06.004Z,2,1011,1011,resubmit_loan_plan,#CLICKED##education#Bachelors#Prof-school#hours_per_week#50#61#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y,0
+64ecad46422709a28eaef5b8,2023-08-28T14:20:53.484Z,2,1012,1012,resubmit_loan_plan,"""clicked#1012""",0
+64ecae40422709a28eaef5ba,2023-08-28T14:25:03.248Z,2,1012,1012,resubmit_loan_plan,clicked,0
+64ecaed1422709a28eaef5bc,2023-08-28T14:27:29.328Z,2,1012,1012,resubmit_loan_plan,#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#5,0
+64ecaf1b422709a28eaef5be,2023-08-28T14:28:43.679Z,2,1012,1012,resubmit_loan_plan,#education#Assoc-voc#Prof-school#hours_per_week#40#51#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#3,0
+64ecaff8422709a28eaef5c0,2023-08-28T14:32:23.878Z,2,1012,1012,resubmit_loan_plan,#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#5,0
+64ecaff8422709a28eaef5c2,2023-08-28T14:32:24.792Z,2,1012,1012,resubmit_loan_plan,#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#5,0
+64ecb006422709a28eaef5c4,2023-08-28T14:32:37.512Z,2,1012,1012,resubmit_loan_plan,#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#1,0
+64ecb00f422709a28eaef5c6,2023-08-28T14:32:46.866Z,2,1012,1012,resubmit_loan_plan,#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#2,0
+64ecb048422709a28eaef5c8,2023-08-28T14:33:44.648Z,2,1012,1012,resubmit_loan_plan,#CLICKED#education#Assoc-voc#Prof-school#hours_per_week#40#51#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y,0
+64ecb059422709a28eaef5ca,2023-08-28T14:34:00.983Z,2,1012,1012,resubmit_loan_plan,Hours per week#original_value:40#Prefrences_value:48,0
+64ecb059422709a28eaef5cc,2023-08-28T14:34:00.735Z,2,1012,1012,resubmit_loan_plan,Hours per week#original_value:40#Prefrences_value:43,0
+64ecb059422709a28eaef5d2,2023-08-28T14:34:00.802Z,2,1012,1012,resubmit_loan_plan,Hours per week#original_value:40#Prefrences_value:45,0
+64ecb059422709a28eaef5d4,2023-08-28T14:34:01.023Z,2,1012,1012,resubmit_loan_plan,Hours per week#original_value:40#Prefrences_value:49,0
+64ecb059422709a28eaef5d6,2023-08-28T14:34:01.052Z,2,1012,1012,resubmit_loan_plan,Hours per week#original_value:40#Prefrences_value:50,0
 64ecb059422709a28eaef5d8,2023-08-28T14:34:01.096Z,2,1012,1012,modify_value_numerical,Hours per week#original_value:40#Prefrences_value:51,0
 64ecb059422709a28eaef5da,2023-08-28T14:34:00.842Z,2,1012,1012,modify_value_numerical,Hours per week#original_value:40#Prefrences_value:46,0
 64ecb059422709a28eaef5d0,2023-08-28T14:34:00.767Z,2,1012,1012,modify_value_numerical,Hours per week#original_value:40#Prefrences_value:44,0
@@ -89,12 +88,12 @@ _id,timestamp,uiVersion,user ID,userID,event,parameter,__v
 64ecb0b4422709a28eaef61e,2023-08-28T14:35:32.454Z,2,1012,1012,modify_value_categorical,Education#Prefrences_acceptable_values:12th,0
 64ecb0b5422709a28eaef620,2023-08-28T14:35:33.002Z,2,1012,1012,modify_value_categorical,Education#Prefrences_acceptable_values:9th,0
 64ecb0cc422709a28eaef622,2023-08-28T14:35:55.891Z,2,1012,1012,modify_value_categorical,Workclass#Prefrences_acceptable_values:Private,0
-64ecb104422709a28eaef624,2023-08-28T14:36:51.491Z,2,1012,1012,interface_2,resubmit_loan_plan,0
+64ecb104422709a28eaef624,2023-08-28T14:36:51.491Z,2,1012,1012,resubmit_loan_plan,interface_2,0
 64ecb1d1422709a28eaef626,2023-08-28T14:40:14.818Z,2,1012,1012,smily_interaction,#education#Assoc-voc#Prof-school#hardship_flag#N#Y#smily_value#4,0
 64ecb1d6422709a28eaef628,2023-08-28T14:40:22.327Z,2,1012,1012,modify_plan_button,#CLICKED#education#Assoc-voc#Prof-school#hardship_flag#N#Y,0
 64ecb1de422709a28eaef62a,2023-08-28T14:40:30.023Z,2,1012,1012,modify_value_categorical,Education#Prefrences_acceptable_values:Assoc-voc,0
 64ecb1e1422709a28eaef62c,2023-08-28T14:40:33.677Z,2,1012,1012,modify_value_categorical,Education#Prefrences_acceptable_values:Assoc-acdm,0
-64ecb1e8422709a28eaef62e,2023-08-28T14:40:39.551Z,2,1012,1012,interface_2,resubmit_loan_plan,0
+64ecb1e8422709a28eaef62e,2023-08-28T14:40:39.551Z,2,1012,1012,resubmit_loan_plan,interface_2,0
 64ecb20d422709a28eaef630,2023-08-28T14:41:17.383Z,2,1012,1012,smily_interaction,#capital_gain#0#2965.231155778895#hours_per_week#40#51#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#4,0
 64ecb23c422709a28eaef632,2023-08-28T14:42:04.444Z,2,1012,1012,smily_interaction,#capital_gain#0#2965.231155778895#education#Assoc-voc#Assoc-acdm#hours_per_week#40#51#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#5,0
 64ecb23e422709a28eaef634,2023-08-28T14:42:05.995Z,2,1012,1012,keep_plan_button,#CLICKED##capital_gain#0#2965.231155778895#education#Assoc-voc#Assoc-acdm#hours_per_week#40#51#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y,0
@@ -149,17 +148,11 @@ _id,timestamp,uiVersion,user ID,userID,event,parameter,__v
 64ed006d422709a28eaef696,2023-08-28T20:15:41.825Z,2,1013,1013,modify_value_categorical,Workclass#Prefrences_acceptable_values:Local-gov,0
 64ed0072422709a28eaef698,2023-08-28T20:15:47.210Z,2,1013,1013,modify_value_categorical,Workclass#Prefrences_acceptable_values:Private,0
 64ed0076422709a28eaef69a,2023-08-28T20:15:51.368Z,2,1013,1013,modify_value_categorical,Workclass#Prefrences_acceptable_values:State-gov,0
-64ed0091422709a28eaef69c,2023-08-28T20:16:17.475Z,2,1013,1013,interface_2,resubmit_loan_plan,0
+64ed0091422709a28eaef69c,2023-08-28T20:16:17.475Z,2,1013,1013,resubmit_loan_plan,interface_2,0
 64ed0107422709a28eaef69e,2023-08-28T20:18:16.141Z,2,1013,1013,smily_interaction,#capital_gain#0#2965.231155778895#education#Bachelors#Prof-school#hours_per_week#50#61#occupation#Prof-specialty#Exec-managerial#acc_now_delinq#0#2#application_type#Individual#Joint App#hardship_flag#N#Y#mort_acc#0#31#smily_value#4,0
 64ed0109422709a28eaef6a0,2023-08-28T20:18:17.852Z,2,1013,1013,keep_plan_button,#CLICKED##capital_gain#0#2965.231155778895#education#Bachelors#Prof-school#hours_per_week#50#61#occupation#Prof-specialty#Exec-managerial#acc_now_delinq#0#2#application_type#Individual#Joint App#hardship_flag#N#Y#mort_acc#0#31,0
 64edc2c1422709a28eaef6a2,2023-08-29T10:04:49.334Z,1,1014,1014,session_started,"""clicked#1014""",0
 64edc339422709a28eaef6a4,2023-08-29T10:06:49.605Z,1,1014,1014,request_plans_button,clicked,0
-64edc364422709a28eaef6a6,2023-08-29T10:07:32.862Z,1,1234,1234,session_started,"""clicked#1234""",0
-64edc367422709a28eaef6a8,2023-08-29T10:07:35.822Z,1,1234,1234,request_plans_button,clicked,0
-64edc36e422709a28eaef6aa,2023-08-29T10:07:43.447Z,1,1234,1234,smily_interaction#3,@education#Assoc-voc#Prof-school@occupation#Prof-specialty#Exec-managerial@workclass#Private#Federal-gov@hardship_flag#N#Y,0
-64edc370422709a28eaef6ac,2023-08-29T10:07:45.275Z,1,1234,1234,level_of_difficulty,hardship_flag#4,0
-64edc372422709a28eaef6ae,2023-08-29T10:07:46.764Z,1,1234,1234,change_acceptable_values,hardship_flag#Y,0
-64edc373422709a28eaef6b0,2023-08-29T10:07:48.328Z,1,1234,1234,keep_plan_button,@education#Assoc-voc#Prof-school@occupation#Prof-specialty#Exec-managerial@workclass#Private#Federal-gov@hardship_flag#N#Y,0
 64edc4d9422709a28eaef6b2,2023-08-29T10:13:45.873Z,1,1014,1014,smily_interaction#4,@education#Bachelors#Prof-school@occupation#Prof-specialty#Exec-managerial@workclass#Self-emp-not-inc#Federal-gov@acc_now_delinq#0#2@application_type#Individual#Joint App@hardship_flag#N#Y@home_ownership#RENT#OWN,0
 64edc504422709a28eaef6b4,2023-08-29T10:14:28.785Z,1,1014,1014,level_of_difficulty,education#2,0
 64edc529422709a28eaef6b6,2023-08-29T10:15:05.287Z,1,1014,1014,change_acceptable_values,education#Bachelors,0
@@ -196,7 +189,7 @@ _id,timestamp,uiVersion,user ID,userID,event,parameter,__v
 64edcb45422709a28eaef6f4,2023-08-29T10:41:08.743Z,2,1014,1014,modify_plan_button,#CLICKED#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y,0
 64edcb8a422709a28eaef6f6,2023-08-29T10:42:18.640Z,2,1014,1014,modify_value_categorical,Workclass#Prefrences_acceptable_values:Private,0
 64edcb90422709a28eaef6f8,2023-08-29T10:42:24.240Z,2,1014,1014,modify_value_categorical,Hardship flag#Prefrences_acceptable_values:Y,0
-64edcbad422709a28eaef6fa,2023-08-29T10:42:52.993Z,2,1014,1014,interface_2,resubmit_loan_plan,0
+64edcbad422709a28eaef6fa,2023-08-29T10:42:52.993Z,2,1014,1014,resubmit_loan_plan,interface_2,0
 64edcbd5422709a28eaef6fc,2023-08-29T10:43:33.489Z,2,1014,1014,smily_interaction,#capital_gain#0#2965.231155778895#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#4,0
 64edcbd7422709a28eaef6fe,2023-08-29T10:43:35.406Z,2,1014,1014,keep_plan_button,#CLICKED##capital_gain#0#2965.231155778895#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y,0
 64edf4bd422709a28eaef700,2023-08-29T13:38:05.093Z,1,1015,1015,session_started,"""clicked#1015""",0
@@ -258,16 +251,17 @@ _id,timestamp,uiVersion,user ID,userID,event,parameter,__v
 64edff26422709a28eaef770,2023-08-29T14:22:29.789Z,2,1015,1015,modify_value_categorical,Education#Prefrences_acceptable_values:Some-college,0
 64edff32422709a28eaef772,2023-08-29T14:22:41.879Z,2,1015,1015,modify_value_categorical,Education#Prefrences_acceptable_values:Some-college,0
 64edff33422709a28eaef774,2023-08-29T14:22:42.822Z,2,1015,1015,modify_value_categorical,Education#Prefrences_acceptable_values:Masters,0
-64edff50422709a28eaef776,2023-08-29T14:23:12.050Z,2,1015,1015,interface_2,resubmit_loan_plan,0
+64edff50422709a28eaef776,2023-08-29T14:23:12.050Z,2,1015,1015,resubmit_loan_plan,interface_2,0
 64edff8c422709a28eaef778,2023-08-29T14:24:11.921Z,2,1015,1015,smily_interaction,#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y#smily_value#4,0
 64edff95422709a28eaef77a,2023-08-29T14:24:21.006Z,2,1015,1015,smily_interaction,#hours_per_week#50#61#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y#smily_value#4,0
 64edff9a422709a28eaef77c,2023-08-29T14:24:26.076Z,2,1015,1015,modify_plan_button,#CLICKED#hours_per_week#50#61#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y,0
-64edffab422709a28eaef77e,2023-08-29T14:24:42.850Z,2,1015,1015,interface_2,resubmit_loan_plan,0
+64edffab422709a28eaef77e,2023-08-29T14:24:42.850Z,2,1015,1015,resubmit_loan_plan,interface_2,0
 64edfffd422709a28eaef780,2023-08-29T14:26:04.965Z,2,1015,1015,smily_interaction,#education#Bachelors#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y#smily_value#3,0
 64ee009f422709a28eaef782,2023-08-29T14:28:47.182Z,2,1015,1015,smily_interaction,#education#Bachelors#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y#num_actv_bc_tl#4#21#smily_value#5,0
+64ee009f422709a28eaef783,2023-08-29T14:28:50.182Z,2,1015,1015,keep_plan_button,ADDED MANUALY,0
 64ee00a7422709a28eaef784,2023-08-29T14:28:54.667Z,2,1015,1015,modify_plan_button,#CLICKED#education#Bachelors#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y#num_actv_bc_tl#4#21,0
 64ee00c6422709a28eaef786,2023-08-29T14:29:26.041Z,2,1015,1015,modify_value_categorical,Job#Prefrences_acceptable_values:Machine-op-inspct,0
-64ee00d1422709a28eaef788,2023-08-29T14:29:37.142Z,2,1015,1015,interface_2,resubmit_loan_plan,0
+64ee00d1422709a28eaef788,2023-08-29T14:29:37.142Z,2,1015,1015,resubmit_loan_plan,interface_2,0
 64ef3907422709a28eaef78a,2023-08-30T12:41:44.512Z,1,1016,1016,session_started,"""clicked#1016""",0
 64ef3982422709a28eaef78c,2023-08-30T12:43:50.205Z,1,1016,1016,request_plans_button,clicked,0
 64ef39ef422709a28eaef78e,2023-08-30T12:45:39.474Z,1,1016,1016,smily_interaction#1,@education#Bachelors#Prof-school@occupation#Prof-specialty#Exec-managerial@workclass#Self-emp-not-inc#Federal-gov@hardship_flag#N#Y,0
@@ -466,7 +460,7 @@ _id,timestamp,uiVersion,user ID,userID,event,parameter,__v
 64ef42ae422709a28eaef910,2023-08-30T13:22:58.430Z,2,1016,1016,modify_value_numerical,Installment#original_value:745.07#Prefrences_value:785,0
 64ef42b3422709a28eaef912,2023-08-30T13:23:03.481Z,2,1016,1016,modify_value_categorical,Hardship flag#Prefrences_acceptable_values:Y,0
 64ef42b4422709a28eaef914,2023-08-30T13:23:03.971Z,2,1016,1016,modify_value_categorical,Hardship flag#Prefrences_acceptable_values:N,0
-64ef42c9422709a28eaef916,2023-08-30T13:23:25.213Z,2,1016,1016,interface_2,resubmit_loan_plan,0
+64ef42c9422709a28eaef916,2023-08-30T13:23:25.213Z,2,1016,1016,resubmit_loan_plan,interface_2,0
 64ef4308422709a28eaef918,2023-08-30T13:24:28.318Z,2,1016,1016,smily_interaction,#capital_gain#0#2965.231155778895#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#last_fico_range_low#650#1059#smily_value#1,0
 64ef4314422709a28eaef91a,2023-08-30T13:24:40.690Z,2,1016,1016,modify_plan_button,#CLICKED#capital_gain#0#2965.231155778895#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#last_fico_range_low#650#1059,0
 64ef4320422709a28eaef91c,2023-08-30T13:24:52.587Z,2,1016,1016,modify_value_categorical,Workclass#Prefrences_acceptable_values:Private,0
@@ -501,14 +495,14 @@ _id,timestamp,uiVersion,user ID,userID,event,parameter,__v
 64ef434d422709a28eaef956,2023-08-30T13:25:37.001Z,2,1016,1016,modify_value_numerical,Installment#original_value:745.07#Prefrences_value:1129,0
 64ef434d422709a28eaef958,2023-08-30T13:25:37.020Z,2,1016,1016,modify_value_numerical,Installment#original_value:745.07#Prefrences_value:1136,0
 64ef434d422709a28eaef95a,2023-08-30T13:25:37.092Z,2,1016,1016,modify_value_numerical,Installment#original_value:745.07#Prefrences_value:1142,0
-64ef4350422709a28eaef95c,2023-08-30T13:25:40.678Z,2,1016,1016,interface_2,resubmit_loan_plan,0
+64ef4350422709a28eaef95c,2023-08-30T13:25:40.678Z,2,1016,1016,resubmit_loan_plan,interface_2,0
 64ef438c422709a28eaef95e,2023-08-30T13:26:40.095Z,2,1016,1016,smily_interaction,#capital_gain#0#3995.1758793969852#education#Assoc-voc#Prof-school#hours_per_week#40#51#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#1,0
 64ef438d422709a28eaef960,2023-08-30T13:26:40.910Z,2,1016,1016,keep_plan_button,#CLICKED##capital_gain#0#3995.1758793969852#education#Assoc-voc#Prof-school#hours_per_week#40#51#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y,0
 64f0cb55c17701856ff239ef,2023-08-31T17:18:13.841Z,2,1017,1017,session_started,"""clicked#1017""",0
 64f0cb78c17701856ff239f1,2023-08-31T17:18:48.550Z,2,1017,1017,request_plans_button,clicked,0
 64f0cb97c17701856ff239f3,2023-08-31T17:19:19.589Z,2,1017,1017,smily_interaction,#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#4,0
 64f0cbb2c17701856ff239f5,2023-08-31T17:19:46.334Z,2,1017,1017,modify_plan_button,#CLICKED#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y,0
-64f0cbc3c17701856ff239f7,2023-08-31T17:20:03.344Z,2,1017,1017,interface_2,resubmit_loan_plan,0
+64f0cbc3c17701856ff239f7,2023-08-31T17:20:03.344Z,2,1017,1017,resubmit_loan_plan,interface_2,0
 64f0cbeac17701856ff239f9,2023-08-31T17:20:42.108Z,2,1017,1017,smily_interaction,#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#verification_status#Source Verified#Verified#smily_value#5,0
 64f0cbeec17701856ff239fb,2023-08-31T17:20:46.189Z,2,1017,1017,modify_plan_button,#CLICKED#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#verification_status#Source Verified#Verified,0
 64f0cbf2c17701856ff239fd,2023-08-31T17:20:50.058Z,2,1017,1017,modify_value_numerical,Total number of credit lines#original_value:28#Prefrences_value:22,0
@@ -661,13 +655,13 @@ _id,timestamp,uiVersion,user ID,userID,event,parameter,__v
 64f0cc04c17701856ff23b23,2023-08-31T17:21:08.009Z,2,1017,1017,modify_value_categorical,Purpose#Prefrences_acceptable_values:medical,0
 64f0cc04c17701856ff23b25,2023-08-31T17:21:08.734Z,2,1017,1017,modify_value_categorical,Purpose#Prefrences_acceptable_values:renewable_energy,0
 64f0cc1fc17701856ff23b27,2023-08-31T17:21:35.596Z,2,1017,1017,modify_value_numerical,Total number of credit lines#original_value:28#Prefrences_value:774,0
-64f0cc22c17701856ff23b29,2023-08-31T17:21:38.049Z,2,1017,1017,interface_2,resubmit_loan_plan,0
+64f0cc22c17701856ff23b29,2023-08-31T17:21:38.049Z,2,1017,1017,resubmit_loan_plan,interface_2,0
 64f0cc4ec17701856ff23b2b,2023-08-31T17:22:22.756Z,2,1017,1017,smily_interaction,#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#5,0
 64f0cc4fc17701856ff23b2d,2023-08-31T17:22:23.592Z,2,1017,1017,smily_interaction,#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#3,0
 64f0cc50c17701856ff23b2f,2023-08-31T17:22:24.038Z,2,1017,1017,smily_interaction,#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#5,0
 64f0cc5ac17701856ff23b31,2023-08-31T17:22:34.159Z,2,1017,1017,smily_interaction,#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#1,0
 64f0cc61c17701856ff23b33,2023-08-31T17:22:41.400Z,2,1017,1017,modify_plan_button,#CLICKED#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y,0
-64f0cc73c17701856ff23b35,2023-08-31T17:22:59.829Z,2,1017,1017,interface_2,resubmit_loan_plan,0
+64f0cc73c17701856ff23b35,2023-08-31T17:22:59.829Z,2,1017,1017,resubmit_loan_plan,interface_2,0
 64f0cca7c17701856ff23b37,2023-08-31T17:23:51.593Z,2,1017,1017,smily_interaction,#education#Assoc-voc#Prof-school#hours_per_week#40#51#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#home_ownership#RENT#OWN#smily_value#5,0
 64f0cca8c17701856ff23b39,2023-08-31T17:23:52.812Z,2,1017,1017,keep_plan_button,#CLICKED##education#Assoc-voc#Prof-school#hours_per_week#40#51#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#home_ownership#RENT#OWN,0
 64f0ce96c17701856ff23b3b,2023-08-31T17:32:06.121Z,1,1017,1017,session_started,"""clicked#1017""",0
@@ -819,7 +813,7 @@ _id,timestamp,uiVersion,user ID,userID,event,parameter,__v
 64f0d8d5c17701856ff23c5f,2023-08-31T18:15:49.818Z,2,1018,1018,modify_value_numerical,Hours per week#original_value:40#Prefrences_value:60,0
 64f0d8d6c17701856ff23c61,2023-08-31T18:15:49.980Z,2,1018,1018,modify_value_numerical,Hours per week#original_value:40#Prefrences_value:61,0
 64f0d8d6c17701856ff23c63,2023-08-31T18:15:50.465Z,2,1018,1018,modify_value_numerical,Hours per week#original_value:40#Prefrences_value:60,0
-64f0d8e1c17701856ff23c65,2023-08-31T18:16:01.587Z,2,1018,1018,interface_2,resubmit_loan_plan,0
+64f0d8e1c17701856ff23c65,2023-08-31T18:16:01.587Z,2,1018,1018,resubmit_loan_plan,interface_2,0
 64f0d934c17701856ff23c67,2023-08-31T18:17:24.410Z,2,1018,1018,smily_interaction,#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#application_type#Individual#Joint App#hardship_flag#N#Y#smily_value#5,0
 64f0d93dc17701856ff23c69,2023-08-31T18:17:33.477Z,2,1018,1018,keep_plan_button,#CLICKED##education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#application_type#Individual#Joint App#hardship_flag#N#Y,0
 64f5e48bc17701856ff23c6b,2023-09-04T14:07:07.507Z,2,1019,1019,session_started,"""clicked#1019""",0
@@ -892,7 +886,7 @@ _id,timestamp,uiVersion,user ID,userID,event,parameter,__v
 64f5e5d9c17701856ff23cf3,2023-09-04T14:12:41.127Z,2,1019,1019,modify_value_numerical,Captital Loss#original_value:0#Prefrences_value:5556,0
 64f5e5d9c17701856ff23cf1,2023-09-04T14:12:41.145Z,2,1019,1019,modify_value_numerical,Captital Loss#original_value:0#Prefrences_value:6148,0
 64f5e5d9c17701856ff23cf5,2023-09-04T14:12:41.213Z,2,1019,1019,modify_value_numerical,Captital Loss#original_value:0#Prefrences_value:6815,0
-64f5e5e3c17701856ff23cf7,2023-09-04T14:12:50.802Z,2,1019,1019,interface_2,resubmit_loan_plan,0
+64f5e5e3c17701856ff23cf7,2023-09-04T14:12:50.802Z,2,1019,1019,resubmit_loan_plan,interface_2,0
 64f5e6a5c17701856ff23cf9,2023-09-04T14:16:05.400Z,2,1019,1019,smily_interaction,#education#Bachelors#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y#last_fico_range_low#630#1039#verification_status#Source Verified#Verified#smily_value#5,0
 64f5e6a9c17701856ff23cfb,2023-09-04T14:16:09.750Z,2,1019,1019,keep_plan_button,#CLICKED##education#Bachelors#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y#last_fico_range_low#630#1039#verification_status#Source Verified#Verified,0
 64f5e920c17701856ff23cfd,2023-09-04T14:26:40.326Z,1,1019,1019,session_started,"""clicked#1019""",0
@@ -940,7 +934,7 @@ _id,timestamp,uiVersion,user ID,userID,event,parameter,__v
 64f61528c17701856ff23d51,2023-09-04T17:34:32.466Z,2,1010,1010,smily_interaction,#education#Bachelors#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y#smily_value#5,0
 64f61538c17701856ff23d53,2023-09-04T17:34:48.580Z,2,1010,1010,smily_interaction,#education#Bachelors#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y#term#60 months#36 months#smily_value#4,0
 64f61545c17701856ff23d55,2023-09-04T17:35:01.380Z,2,1010,1010,modify_plan_button,#CLICKED#education#Bachelors#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y,0
-64f61567c17701856ff23d57,2023-09-04T17:35:35.066Z,2,1010,1010,interface_2,resubmit_loan_plan,0
+64f61567c17701856ff23d57,2023-09-04T17:35:35.066Z,2,1010,1010,resubmit_loan_plan,interface_2,0
 64f61575c17701856ff23d59,2023-09-04T17:35:48.695Z,2,1010,1010,smily_interaction,#education#Bachelors#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y#smily_value#5,0
 64f61577c17701856ff23d5b,2023-09-04T17:35:50.808Z,2,1010,1010,keep_plan_button,#CLICKED##education#Bachelors#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y,0
 64f61582c17701856ff23d5d,2023-09-04T17:36:02.059Z,2,1010,1010,smily_interaction,#education#Bachelors#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y#smily_value#5,0
@@ -955,7 +949,7 @@ _id,timestamp,uiVersion,user ID,userID,event,parameter,__v
 64f615ecc17701856ff23d6f,2023-09-04T17:37:48.224Z,2,1010,1010,modify_value_categorical,Job#Prefrences_acceptable_values:Sales,0
 64f615edc17701856ff23d71,2023-09-04T17:37:49.474Z,2,1010,1010,modify_value_categorical,Job#Prefrences_acceptable_values:Exec-managerial,0
 64f61605c17701856ff23d73,2023-09-04T17:38:13.194Z,2,1010,1010,modify_value_categorical,Hardship flag#Prefrences_acceptable_values:Y,0
-64f6160bc17701856ff23d75,2023-09-04T17:38:19.069Z,2,1010,1010,interface_2,resubmit_loan_plan,0
+64f6160bc17701856ff23d75,2023-09-04T17:38:19.069Z,2,1010,1010,resubmit_loan_plan,interface_2,0
 64f61620c17701856ff23d77,2023-09-04T17:38:40.549Z,2,1010,1010,smily_interaction,#education#Bachelors#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y#smily_value#5,0
 64f61634c17701856ff23d79,2023-09-04T17:39:00.611Z,2,1010,1010,smily_interaction,#education#Bachelors#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#acc_now_delinq#0#2#application_type#Individual#Joint App#hardship_flag#N#Y#term#60 months#36 months#smily_value#4,0
 64f6163cc17701856ff23d7b,2023-09-04T17:39:07.661Z,2,1010,1010,smily_interaction,#education#Bachelors#Prof-school#hours_per_week#50#61#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y#smily_value#5,0
@@ -1015,7 +1009,7 @@ _id,timestamp,uiVersion,user ID,userID,event,parameter,__v
 64f84a8fc17701856ff23de7,2023-09-06T09:46:54.841Z,2,1020,1020,modify_value_categorical,Job#Prefrences_acceptable_values:Armed-Forces,0
 64f84aafc17701856ff23de9,2023-09-06T09:47:26.690Z,2,1020,1020,modify_value_categorical,Hardship flag#Prefrences_acceptable_values:Y,0
 64f84adec17701856ff23deb,2023-09-06T09:48:13.859Z,2,1020,1020,modify_value_categorical,Workclass#Prefrences_acceptable_values:Never-worked,0
-64f84ae2c17701856ff23ded,2023-09-06T09:48:18.123Z,2,1020,1020,interface_2,resubmit_loan_plan,0
+64f84ae2c17701856ff23ded,2023-09-06T09:48:18.123Z,2,1020,1020,resubmit_loan_plan,interface_2,0
 64f84afac17701856ff23def,2023-09-06T09:48:41.558Z,2,1020,1020,smily_interaction,#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#hardship_flag#N#Y#mort_acc#2#33#smily_value#1,0
 64f84afcc17701856ff23df1,2023-09-06T09:48:43.798Z,2,1020,1020,modify_plan_button,#CLICKED#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#hardship_flag#N#Y#mort_acc#2#33,0
 64f84b02c17701856ff23df3,2023-09-06T09:48:49.659Z,2,1020,1020,modify_value_numerical,Number of mortgage accounts#original_value:2#Prefrences_value:1,0
@@ -1039,7 +1033,7 @@ _id,timestamp,uiVersion,user ID,userID,event,parameter,__v
 64f84b2cc17701856ff23e17,2023-09-06T09:49:32.078Z,2,1020,1020,modify_value_numerical,Number of mortgage accounts#original_value:2#Prefrences_value:1,0
 64f84b38c17701856ff23e19,2023-09-06T09:49:44.206Z,2,1020,1020,modify_value_numerical,Number of mortgage accounts#original_value:2#Prefrences_value:2,0
 64f84b38c17701856ff23e1b,2023-09-06T09:49:44.498Z,2,1020,1020,modify_value_numerical,Number of mortgage accounts#original_value:2#Prefrences_value:1,0
-64f84b3cc17701856ff23e1d,2023-09-06T09:49:47.959Z,2,1020,1020,interface_2,resubmit_loan_plan,0
+64f84b3cc17701856ff23e1d,2023-09-06T09:49:47.959Z,2,1020,1020,resubmit_loan_plan,interface_2,0
 64f84b57c17701856ff23e1f,2023-09-06T09:50:14.650Z,2,1020,1020,smily_interaction,#capital_gain#0#2965.231155778895#hours_per_week#40#51#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#2,0
 64f84b58c17701856ff23e21,2023-09-06T09:50:16.064Z,2,1020,1020,modify_plan_button,#CLICKED#capital_gain#0#2965.231155778895#hours_per_week#40#51#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y,0
 64f84b5dc17701856ff23e23,2023-09-06T09:50:20.965Z,2,1020,1020,modify_value_categorical,Workclass#Prefrences_acceptable_values:Federal-gov,0
@@ -1090,7 +1084,7 @@ _id,timestamp,uiVersion,user ID,userID,event,parameter,__v
 64f84b7dc17701856ff23e7d,2023-09-06T09:50:52.570Z,2,1020,1020,modify_value_categorical,Hardship flag#Prefrences_acceptable_values:Y,0
 64f84b88c17701856ff23e7f,2023-09-06T09:51:03.786Z,2,1020,1020,modify_value_categorical,Job#Prefrences_acceptable_values:Armed-Forces,0
 64f84b8fc17701856ff23e81,2023-09-06T09:51:11.493Z,2,1020,1020,modify_value_numerical,Capital gain#original_value:0#Prefrences_value:6185,0
-64f84b95c17701856ff23e83,2023-09-06T09:51:17.204Z,2,1020,1020,interface_2,resubmit_loan_plan,0
+64f84b95c17701856ff23e83,2023-09-06T09:51:17.204Z,2,1020,1020,resubmit_loan_plan,interface_2,0
 64f84badc17701856ff23e85,2023-09-06T09:51:41.309Z,2,1020,1020,smily_interaction,#education#Assoc-voc#Prof-school#hours_per_week#40#51#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#1,0
 64f84bc0c17701856ff23e87,2023-09-06T09:52:00.151Z,2,1020,1020,modify_plan_button,#CLICKED#education#Assoc-voc#Prof-school#hours_per_week#40#51#workclass#Private#Federal-gov#hardship_flag#N#Y,0
 64f84bc5c17701856ff23e89,2023-09-06T09:52:05.276Z,2,1020,1020,modify_value_numerical,Hours per week#original_value:40#Prefrences_value:65,0
@@ -1111,7 +1105,7 @@ _id,timestamp,uiVersion,user ID,userID,event,parameter,__v
 64f84bc9c17701856ff23ea7,2023-09-06T09:52:08.722Z,2,1020,1020,modify_value_numerical,Hours per week#original_value:40#Prefrences_value:52,0
 64f84bcec17701856ff23ea9,2023-09-06T09:52:14.443Z,2,1020,1020,modify_value_categorical,Hardship flag#Prefrences_acceptable_values:Y,0
 64f84bd4c17701856ff23eab,2023-09-06T09:52:19.775Z,2,1020,1020,modify_value_categorical,Workclass#Prefrences_acceptable_values:Federal-gov,0
-64f84be8c17701856ff23ead,2023-09-06T09:52:39.682Z,2,1020,1020,interface_2,resubmit_loan_plan,0
+64f84be8c17701856ff23ead,2023-09-06T09:52:39.682Z,2,1020,1020,resubmit_loan_plan,interface_2,0
 64f84c0fc17701856ff23eaf,2023-09-06T09:53:19.421Z,2,1020,1020,smily_interaction,#education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y#smily_value#1,0
 64f84c3dc17701856ff23eb1,2023-09-06T09:54:05.002Z,2,1020,1020,keep_plan_button,#CLICKED##education#Assoc-voc#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Private#Federal-gov#hardship_flag#N#Y,0
 64f84e15c17701856ff23eb3,2023-09-06T10:01:57.288Z,1,1020,1020,session_started,"""clicked#1020""",0
@@ -1156,7 +1150,7 @@ _id,timestamp,uiVersion,user ID,userID,event,parameter,__v
 64f8722fc17701856ff23f01,2023-09-06T12:35:58.861Z,2,1021,1021,modify_value_categorical,Job#Prefrences_acceptable_values:Machine-op-inspct,0
 64f87230c17701856ff23f03,2023-09-06T12:35:59.493Z,2,1021,1021,modify_value_categorical,Job#Prefrences_acceptable_values:Handlers-cleaners,0
 64f87235c17701856ff23f05,2023-09-06T12:36:04.742Z,2,1021,1021,modify_value_categorical,Application Type#Prefrences_acceptable_values:Joint App,0
-64f8723ac17701856ff23f07,2023-09-06T12:36:09.715Z,2,1021,1021,interface_2,resubmit_loan_plan,0
+64f8723ac17701856ff23f07,2023-09-06T12:36:09.715Z,2,1021,1021,resubmit_loan_plan,interface_2,0
 64f87268c17701856ff23f09,2023-09-06T12:36:56.034Z,2,1021,1021,smily_interaction,#education#Bachelors#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y#smily_value#4,0
 64f8726cc17701856ff23f0b,2023-09-06T12:37:00.215Z,2,1021,1021,keep_plan_button,#CLICKED##education#Bachelors#Prof-school#occupation#Prof-specialty#Exec-managerial#workclass#Self-emp-not-inc#Federal-gov#hardship_flag#N#Y,0
 64f872a4c17701856ff23f0d,2023-09-06T12:37:55.566Z,1,1021,1021,session_started,"""clicked#1021""",0
